@@ -21,7 +21,7 @@
 </div>
 </div>
 <br>
-- 🌱 I’m currently learning <strong>Web Development</strong> <br>
+- 🌱 I’m currently learning <strong>App Development</strong> <br>
 - 👯 I’m looking to collaborate on <strong> Python Kivy and App development projects </strong><br>
 - 💬 Ask me about <strong> App Development, Python, Java </strong><br>
 - 📫 <a href="aryan_202100437@smit.smu.edu.in"> Email ME for queries </a><br>
