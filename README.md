@@ -31,8 +31,9 @@
   <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://dart.dev/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40" style="max-width: 100%;"> </a>
   <a href="https://flutter.dev/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.gimp.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40" style="max-width: 100%;"> </a></p>
-  <hr>
+  <a href="https://www.gimp.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" alt="gimp" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://kivymd.readthedocs.io/en/latest/," rel="nofollow"> <img src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png" alt="kivymd" width="40" height="40" style="max-width: 100%;"> </a></p>
+<hr>
 <div id="header" align="left">
   
 ![Aryan-Lohia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Lohia&show_icons=true&theme=radical)
