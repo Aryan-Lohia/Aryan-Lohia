@@ -22,8 +22,8 @@
 </div>
 <br>
 - 🌱 I’m currently learning <strong>App Development in Flutter</strong> <br>
-- 👯 I’m looking to collaborate on <strong> Python KivyMD and App development projects </strong><br>
-- 💬 Ask me about <strong> App Development, Python, Java </strong><br>
+- 👯 I’m looking to collaborate on <strong> Flutter and App development projects </strong><br>
+- 💬 Ask me about <strong> App Development, Flutter, Python, Java </strong><br>
 - 📫 <a href="mailto:aryan_202100437@smit.smu.edu.in"> Email ME for queries </a><br>
 <hr>
 <H3> My Skills:</H3>
