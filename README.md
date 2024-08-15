@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<H1>Application Developer and Tech Enthusiast</H1>
+<H1>Full Stack Developer and Tech Enthusiast</H1>
   </div>
 <hr>
 <br>
@@ -21,9 +21,8 @@
 </div>
 </div>
 <br>
-- 🌱 I’m currently learning <strong>App Development in Flutter</strong> <br>
-- 👯 I’m looking to collaborate on <strong> Flutter and App development projects </strong><br>
-- 💬 Ask me about <strong> App Development, Flutter, Python, Java </strong><br>
+- 👯 I’m looking to collaborate on <strong> Full Stack and App development projects </strong><br>
+- 💬 Ask me about <strong> MERN, App Development, Flutter, Python, Java </strong><br>
 - 📫 <a href="mailto:aryan_202100437@smit.smu.edu.in"> Email ME for queries </a><br>
 <hr>
 <H3> My Skills:</H3>
